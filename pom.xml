@@ -32,6 +32,12 @@
 	    <artifactId>struts2-core</artifactId>
 	    <version>2.5.16</version>
 	</dependency> 
+	<!-- https://mvnrepository.com/artifact/org.apache.ibatis/ibatis-sqlmap -->
+	<dependency>
+	    <groupId>org.apache.ibatis</groupId>
+	    <artifactId>ibatis-sqlmap</artifactId>
+	    <version>2.3.4.726</version>
+	</dependency>
   </dependencies>
 
   <build>
